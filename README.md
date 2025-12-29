@@ -5,7 +5,7 @@
 Welcome to my GitHub profile.  
 I am deeply interested in **offensive cybersecurity**, with a strong focus on understanding how tools, protocols, and systems truly work — not just how to use them.
 
----
+ 
 
 ## About Me
 
@@ -15,7 +15,7 @@ I am deeply interested in **offensive cybersecurity**, with a strong focus on un
 - Solid foundations in **network analysis** and **system administration**
 - Constantly learning, experimenting, and breaking things (ethically)
 
----
+ 
 
 ## Skills & Technologies
 
@@ -28,7 +28,7 @@ I am deeply interested in **offensive cybersecurity**, with a strong focus on un
   - Linux  
   - Networking basics (TCP/IP, ports, services)  
 
----
+ 
 
 ## Current Goals
 
@@ -36,18 +36,18 @@ I am deeply interested in **offensive cybersecurity**, with a strong focus on un
 - Improve **code efficiency and performance**
 - Prepare for real-world **pentesting & bug bounty** workflows
 
----
+ 
 
 All content shared here is for **educational and ethical purposes only**
 I do **not** support illegal activity. Always test on systems you own or have permission to audit
 
----
+ 
 
 ## Connect
 
 Feel free to explore my repositories, or discuss ideas  
 Learning never stops
 
----
+ 
 
 > *"Knowing how a tool works is more powerful than knowing how to run it."*
